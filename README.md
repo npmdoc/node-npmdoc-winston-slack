@@ -1,6 +1,6 @@
 # npmdoc-winston-slack
 
-#### api documentation for  [winston-slack (v0.1.6)](https://github.com/TDASinternal/winston-slack)  [![npm package](https://img.shields.io/npm/v/npmdoc-winston-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-winston-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-winston-slack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-winston-slack)
+#### basic api documentation for  [winston-slack (v0.1.6)](https://github.com/TDASinternal/winston-slack)  [![npm package](https://img.shields.io/npm/v/npmdoc-winston-slack.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-winston-slack) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-winston-slack.svg)](https://travis-ci.org/npmdoc/node-npmdoc-winston-slack)
 
 #### winston-slack
 
@@ -63,7 +63,8 @@
         "type": "git",
         "url": "git+https://github.com/TDASinternal/winston-slack.git"
     },
-    "version": "0.1.6"
+    "version": "0.1.6",
+    "bin": {}
 }
 ```
 
